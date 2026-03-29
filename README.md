@@ -28,7 +28,7 @@ The `.mod` file solves for the initial steady state and simulates a **perfect fo
 
 ## 💡 Key Policy Implications (Simulation Results)
 
-![Simulation Results](results/simulation_results.png)
+![Simulation Results](results/simulation_plot.png)
 
 *Note: If the image does not load, please check the `/results` folder.*
 
@@ -43,4 +43,4 @@ The `.mod` file solves for the initial steady state and simulates a **perfect fo
 
 ---
 *Developed by **Luis Martínez Vicente** - Economist & Data Scientist*
-*[Connect on LinkedIn](INSERTA_TU_LINK_DE_LINKEDIN_AQUI)*
+*[Connect on LinkedIn -> Still to be updated](https://www.linkedin.com/in/luis-mart%C3%ADnez-77a857331/)*
